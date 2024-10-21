@@ -56,10 +56,10 @@ function Github() {
               >
                 <FontAwesomeIcon icon={faArrowDown} />
               </button>
+              {/* jbdj,bzx */}
               <label className="inline-flex items-center cursor-pointer">
                 <input
                   type="checkbox"
-                  value=""
                   className="sr-only peer"
                   checked={isDarkTrue}
                   onChange={toggleDarkMode}
